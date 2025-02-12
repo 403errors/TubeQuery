@@ -4,7 +4,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20on%20Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/sitama/tubequery)
 
-Here is the ![publication](https://app.readytensor.ai/publications/sw0uANUAdEXE) of TubeQuery. 
+Here is the [publication](https://app.readytensor.ai/publications/sw0uANUAdEXE) of TubeQuery. 
 
 ## Overview
 
