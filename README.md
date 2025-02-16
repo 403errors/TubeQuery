@@ -10,7 +10,7 @@ Here is the [publication](https://app.readytensor.ai/publications/sw0uANUAdEXE) 
 
 TubeQuery leverages advanced Natural Language Processing (NLP) techniques to analyze video content. It extracts audio, transcribes it, and then uses a language model to answer questions related to the video's content. This makes it easy to get quick answers and summaries from video lectures, tutorials, interviews, and more.
 
-![Input Video Link](imgs/PRODUCTION%20PROTOTYPE%20OF%20TUBEQUERY.png)
+![PRODUCTION_PROTOTYPE](imgs/PRODUCTION%20PROTOTYPE%20OF%20TUBEQUERY.png)
 
 ## Features
 
